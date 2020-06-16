@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7C9D529D24996F8D00678FD6 /* iconimage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9D529C24996F8D00678FD6 /* iconimage.swift */; };
+		7C9D529F2499726700678FD6 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C9D529E2499726700678FD6 /* MapView.swift */; };
 		7CF4F45D2499664400A5D57A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF4F45C2499664400A5D57A /* AppDelegate.swift */; };
 		7CF4F45F2499664400A5D57A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF4F45E2499664400A5D57A /* SceneDelegate.swift */; };
 		7CF4F4612499664400A5D57A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CF4F4602499664400A5D57A /* ContentView.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7C9D529C24996F8D00678FD6 /* iconimage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iconimage.swift; sourceTree = "<group>"; };
+		7C9D529E2499726700678FD6 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		7CF4F4592499664400A5D57A /* Weekview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weekview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CF4F45C2499664400A5D57A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7CF4F45E2499664400A5D57A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				7CF4F4672499664600A5D57A /* LaunchScreen.storyboard */,
 				7CF4F46A2499664600A5D57A /* Info.plist */,
 				7CF4F4642499664600A5D57A /* Preview Content */,
+				7C9D529C24996F8D00678FD6 /* iconimage.swift */,
+				7C9D529E2499726700678FD6 /* MapView.swift */,
 			);
 			path = Weekview;
 			sourceTree = "<group>";
@@ -269,6 +275,8 @@
 			files = (
 				7CF4F45D2499664400A5D57A /* AppDelegate.swift in Sources */,
 				7CF4F45F2499664400A5D57A /* SceneDelegate.swift in Sources */,
+				7C9D529F2499726700678FD6 /* MapView.swift in Sources */,
+				7C9D529D24996F8D00678FD6 /* iconimage.swift in Sources */,
 				7CF4F4612499664400A5D57A /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
